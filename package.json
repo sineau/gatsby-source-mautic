@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-mautic",
-  "version": "0.7.0"
+  "version": "0.7.3",
   "description": "Source plugin to provide Mautic API endpoints in Gatsby",
   "author": "sineau <sineaugh@gmail.com>",
   "license": "GPL-3.0",
@@ -26,6 +26,7 @@
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-env": "^1.6.0",
     "chokidar": "^1.7.0",
     "cross-env": "^5.0.5",
