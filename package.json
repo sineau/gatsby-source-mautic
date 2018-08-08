@@ -1,6 +1,6 @@
 {
   "name": "gatsby-source-mautic",
-  "version": "0.7.3",
+  "version": "0.7.4",
   "description": "Source plugin to provide Mautic API endpoints in Gatsby",
   "author": "sineau <sineaugh@gmail.com>",
   "license": "GPL-3.0",
